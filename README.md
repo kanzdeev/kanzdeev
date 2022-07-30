@@ -3,6 +3,6 @@
 <hr>
 <br>
 <div width="100%" align="center">
-  <img align="center" height="215" src="https://lanyard-profile-readme.vercel.app/api/743552792811012096?theme=dark&bg=0A0117&animated=false&hideDiscrim=&borderRadius=5px&idleMessage=Prawdopodobnie%20nie%20robie%20nic%20ciekawego..."></a>
+  <img align="center" height="215" src="https://lanyard-profile-readme.vercel.app/api/743552792811012096?theme=dark&bg=01010F&animated=false&hideDiscrim=&borderRadius=25px&idleMessage=Prawdopodobnie%20nie%20robie%20nic%20ciekawego..."></a>
 </div>
 
