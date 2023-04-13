@@ -3,6 +3,6 @@
 
 <br>
 <div width="100%" align="center">
-  <img href="https://discordapp.com/users/743552792811012096" align="center" height="215" src="https://lanyard-profile-readme.vercel.app/api/743552792811012096?theme=dark&bg=171717&animated=false&hideDiscrim=&borderRadius=25px&idleMessage=Prawdopodobnie%20nie%20robie%20nic%20ciekawego..."></a>
+  <img href="https://discordapp.com/users/743552792811012096" align="center" height="215" src="https://lanyard-profile-readme.vercel.app/api/743552792811012096?theme=dark&bg=171717&animated=false&hideDiscrim=&borderRadius=25px&idleMessage=Most%20likely%20I%20ain't%20doing%20special..."></a>
 </div>
 
