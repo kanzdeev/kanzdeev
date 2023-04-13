@@ -1,5 +1,5 @@
 
-<h2 align="center">Currently I'm doing <p><img src="https://media.giphy.com/media/40a8jFMt0sc73UtpaH/giphy.gif" height="40px" width="40px"></h2>
+<h2 align="center">I'm Currently doing <p><img src="https://media.giphy.com/media/40a8jFMt0sc73UtpaH/giphy.gif" height="40px" width="40px"></h2>
 
 <br>
 <div width="100%" align="center">
